@@ -1,0 +1,200 @@
+body {
+    position: relative;
+    width: 1360px;
+    height: 2068px;
+    background: #FFFFFF;
+}
+header {
+    position: absolute;
+    width: 1109px;
+    height: 23px;
+    left: 126px;
+    top: 61px;
+}
+li {
+    list-style-type: none;
+}
+.headerlogo {
+    position: absolute;
+    left: 0.01%;
+    right: 91.87%;
+    top: 0.54%;
+    bottom: 15.36%;
+}
+.project {
+    position: absolute;
+    height: 23px;
+    left: 85.39%;
+    right: 8.57%;
+    top: calc(50% - 23px/2);
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.346154px;
+    color: #111111;
+    text-decoration: none;
+    
+}
+.contact {
+    position: absolute;
+    height: 23px;
+    left: 94.05%;
+    right: 0%;
+    top: calc(50% - 23px/2);
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.346154px;
+    color: #111111;
+    text-decoration: none;
+}
+.title {
+    position: absolute;
+    width: 475px;
+    height: 121px;
+    left: 125px;
+    top: 194px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+}
+.paragraf {
+    position: absolute;
+    width: 635px;
+    height: 222px;
+    left: 125px;
+    top: 343px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+.table {
+    position: absolute;
+    width: 335px;
+    height: 343px;
+    left: 900px;
+    top: 222px;
+    font-family: Muli;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 23px;
+}
+td:first-child {
+    font-weight: normal;
+    color: grey;
+}
+
+.walking {
+    position: absolute;
+    width: 1110px;
+    height: 660px;
+    left: 125px;
+    top: 626px;
+}
+.par3 {
+    position: absolute;
+    width: 1109px;
+    height: 93px;
+    left: 125px;
+    top: 1331px;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #111111;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.mountain {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 125px;
+    top: 1469px;
+}
+.flowers {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 505px;
+    top: 1469px;
+}
+.door {
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 885px;
+    top: 1469px;
+}
+footer {
+    position: absolute;
+    width: 1110px;
+    height: 23px;
+    left: 125px;
+    top: 2001px;
+}
+.footerlogo {
+    position: absolute;
+    left: 0%;
+    right: 91.89%;
+    top: 8.7%;
+    bottom: 8.7%;
+}
+.fproject {
+    position: absolute;
+    height: 23px;
+    left: 68.2%;
+    right: 25.77%;
+    top: calc(50% - 23px/2);
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.346154px;
+    color: black;
+    text-decoration: none;
+}
+.fcontact {
+    position: absolute;
+    height: 23px;
+    left: 76.94%;
+    right: 17.12%;
+    top: calc(50% - 23px/2);
+    font-family: Muli;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.346154px;
+    color: #111111;
+    text-decoration: none;
+}
+.ball {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 1015px;
+    top: 4px;
+}
+.instagram {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 1054px;
+    top: 4px;
+}
+.twitter {
+    position: absolute;
+    width: 18px;
+    height: 14px;
+    left: 1092px;
+    top: 4px;
+}
